@@ -1,6 +1,6 @@
 web application/stitch/projects/306028075143152677/screens/ab08015df06e4f20bada6117d1153bc4
 # Ethereal Logic Design System
-
+ 
 ## Brand Identity
 **Name:** Visionary Architect
 **Industry:** IT Solutions & Web Development
